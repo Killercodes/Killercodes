@@ -1,4 +1,4 @@
-# Hi & 🙏 it's `Killercodes` 
+# Hey it's `Killercodes` 
 > And here are my stats
 
 
