@@ -18,7 +18,7 @@
 <table>
 <tr>
 <td style="display:inline-block">
-<a href="https://pwastore.github.io/" target="__blank"><img width="100px" src="https://avatars.githubusercontent.com/u/108609908?s=200&v=4"><br/>PWA Appstore</a>
+<a href="https://ntoolz.github.io/" target="__blank"><img width="100px" src="https://avatars.githubusercontent.com/u/108609908?s=200&v=4"><br/>NToolz</a>
 </td>
 <td style="display:block">
 <a href="https://ipynotes.github.io/" target="__blank"><img width="100px" src="https://avatars.githubusercontent.com/u/111256203?s=200&v=4"><br/>Py Notebook</a>
